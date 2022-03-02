@@ -1,0 +1,3 @@
+[submodule "protoc-gen-bq-schema"]
+	path = protoc-gen-bq-schema
+	url = git@github.com:GoogleCloudPlatform/protoc-gen-bq-schema.git
